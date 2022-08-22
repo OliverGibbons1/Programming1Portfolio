@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Oliver Gibbons Programming Portfolio 
 
 You can use the [editor on GitHub](https://github.com/OliverGibbons1/Programming1Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
