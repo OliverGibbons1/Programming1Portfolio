@@ -4,7 +4,7 @@
 
 ###OOP Calculator
 Graphic ased OOP calculator. 
-![Running Calculator] (Calc image)
+![Running Calculator] (https://github.com/OliverGibbons1/Programming1Portfolio/blob/gh-pages/Images/Calc.png?raw=true)
 [Source Code] (https://github.com/OliverGibbons1/Programming1Portfolio/tree/gh-pages/src/Calculator)
 
 
