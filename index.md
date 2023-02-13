@@ -5,7 +5,7 @@
 ###OOP Calculator
 Graphic ased OOP calculator. 
 ![Running Calculator] (Calc image)
-[Source Code] ( gethub src calc file link)
+[Source Code] (https://github.com/OliverGibbons1/Programming1Portfolio/tree/gh-pages/src/Calculator)
 
 
 ##Programming 1 Semester 2 Projects:
