@@ -30,6 +30,6 @@ Graphics based Screensaver.
 
 PigLatin Converter.
 
-![Running PigLatin]()
+![Running PigLatin](https://github.com/OliverGibbons1/Programming1Portfolio/blob/gh-pages/Images/PigLatin%20Converter%20Screenshot.png?raw=true)
 
-[Source Code]() 
+[Source Code](https://github.com/OliverGibbons1/Programming1Portfolio/tree/gh-pages/src/PigLatin) 
