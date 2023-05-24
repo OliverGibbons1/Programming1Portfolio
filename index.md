@@ -1,10 +1,13 @@
 # Welcome to Oliver Gibbons Programming Portfolio 
 
+In this portfolio you will see some of the projects that were completed by Oliver Gibbons in Skyline's year one programming class. 
+
 ## Programming 1 Semester 1 Projects:
 
 ### OOP Calculator
 
 Graphics based OOP calculator. 
+The calsulator was an excelent project to learn mouse detection with objects, as well as also incorporating logic. 
 
 ![Running Calculator](https://github.com/OliverGibbons1/Programming1Portfolio/blob/gh-pages/Images/Calc.png?raw=true)
 
