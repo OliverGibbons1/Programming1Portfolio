@@ -7,7 +7,7 @@ In this portfolio you will see some of the projects that were completed by Olive
 ### OOP Calculator
 
 Graphics based OOP calculator. 
-The calsulator was an excelent project to learn mouse detection with objects, as well as also incorporating logic. 
+The calculator was an excelent project to learn mouse detection with objects, as well as also incorporating logic. 
 
 ![Running Calculator](https://github.com/OliverGibbons1/Programming1Portfolio/blob/gh-pages/Images/Calc.png?raw=true)
 
